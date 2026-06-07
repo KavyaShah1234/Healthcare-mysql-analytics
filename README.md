@@ -62,4 +62,8 @@ Example use case:
 Used for time-based analysis:
 - `YEAR()` → yearly trends  
 - `QUARTER()` → quarterly patient distribution  
-- `DATEDIFF()` → readmission and duration calculations  
+- `DATEDIFF()` → readmission and duration calculations
+
+## Dashboard Preview
+
+![Healthcare Dashboard Preview](Hospital_Dashboard.png)
